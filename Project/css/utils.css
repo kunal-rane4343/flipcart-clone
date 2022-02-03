@@ -1,0 +1,76 @@
+.flex-all-center{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.button {
+    position: relative;
+    top: 22%;
+    left: 2%;
+    bottom: 10%;
+}
+
+.Home {
+    border-color: #00ff39;
+    color: green;
+    padding: 22px;
+    border-radius: 26px;
+}
+
+.Home:hover {
+    background-color: #00ff39;
+    color: white;
+    cursor:wait ;
+}
+
+.about {
+    border-color: #0047ff;
+    color: dodgerblue;
+    padding: 22px;
+    border-radius: 26px;
+}
+
+.about:hover {
+    background-color: #0047ff;
+    color: white;
+    cursor:wait ;
+}
+
+.content {
+    border-color: #ffb800;
+    color: orange;
+    padding: 22px;
+    border-radius: 26px;
+}
+
+.content:hover {
+    background-color: #ffb800;
+    color: white;
+    cursor:wait ;
+}
+
+.Warning {
+    border-color: #ff00c6;
+    color: rgb(233, 10, 196);
+    padding: 22px;
+    border-radius: 26px;
+}
+
+.Warning:hover {
+    background-color: #ff00c6;
+    color: white;
+    cursor: not-allowed;
+}
+
+.my-1{
+    margin: 5px 0;
+}
+
+.my-2{
+    margin: 26px 0;
+}
+
+.text-center{
+    text-align: center;
+}
